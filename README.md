@@ -8,3 +8,5 @@ Every time when you push button, app show net prediction for this step (net do n
 Color gradient show how many times you pushed each batton.
 
 You can run tkinter or kivy realisation, also it need python3 and tensorflow.
+
+![image](https://user-images.githubusercontent.com/70165837/113048954-c544fd00-91ab-11eb-91b5-204543928436.png)
